@@ -3,8 +3,6 @@
 
 Me chamo Nicolas, e sou um futuro estudante de Ciência da Computação.
 
-Siga-me aqui no GitHub para acompanhar minha jornada na computação por meio dos meus repositórios públicos.
-
-Você também pode conferir minhas outras redes sociais pessoais através dos links disponíveis abaixo da minha foto, em adição ao meu endereço de e-mail para contato profissional.
+Siga-me aqui no GitHub para acompanhar minha jornada na computação por meio dos meus repositórios públicos. Você também pode conferir minhas outras redes sociais pessoais através dos links disponíveis neste perfil, abaixo da minha foto.
 
 Fique à vontade para entrar em contato comigo caso tenha alguma sugestão ou projeto em mente!
